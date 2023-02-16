@@ -14,7 +14,7 @@ import (
 //go:generate easyjson -omit_empty -all ${GOFILE}
 
 const (
-	hostDomain = "qzmgbe9m0.g.tau.link"
+	hostDomain = "jzipbscz0.g.tau.link"
 	minLen     = 5
 )
 
